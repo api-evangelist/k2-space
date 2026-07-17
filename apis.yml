@@ -1,0 +1,29 @@
+aid: k2-space
+name: K2 Space
+description: 'K2 Space is a company surfaced as a portfolio company of first-round-capital, lightspeed-venture-partners,
+  redpoint-ventures and added to the API Evangelist network as a stub for enrichment. Sector: hardware.
+  This profile is a lead awaiting the enrichment pipeline.'
+url: https://raw.githubusercontent.com/api-evangelist/k2-space/refs/heads/main/apis.yml
+x-type: company
+x-source: vc-portfolio
+x-backed-by:
+- first-round-capital
+- lightspeed-venture-partners
+- redpoint-ventures
+x-tier: stub
+x-tier-reason: portfolio-lead
+specificationVersion: '0.20'
+created: '2026-07-17'
+modified: '2026-07-17'
+tags:
+- Company
+- Hardware
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://www.k2space.com
